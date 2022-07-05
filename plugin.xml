@@ -41,10 +41,12 @@
                 <string>soundcloud</string>
                 <string>fb-messenger</string>
                 <string>instagram</string>
+                <string>comgooglemaps</string>
+                <string>waze</string>
+                <string>maps</string>
+                <string>flitsmeister</string>
             </array>
         </config-file>
-        
-        
         
     </platform>
     
